@@ -8459,10 +8459,10 @@ mdast-add-list-metadata@1.0.1:
   dependencies:
     unist-util-visit-parents "1.1.2"
 
-mdi-material-ui@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/mdi-material-ui/-/mdi-material-ui-6.0.0.tgz#76ff2ebbd2ce9012f700dc09a1a2b4b1ef116bd6"
-  integrity sha512-AVSWSH09aj6w6zf1zYtnLwyok//GTrAnZsFf5Yk4VuBFhzxKChhIyZ+KEwA2JDAipyztAHfgYgZE388egVKVnw==
+mdi-material-ui@^6.29.0:
+  version "6.29.0"
+  resolved "https://registry.yarnpkg.com/mdi-material-ui/-/mdi-material-ui-6.29.0.tgz#3114ab8970b296868e2720d4b3d0866394107988"
+  integrity sha512-/UdLWuOLNCeEOP+PQ8dPLOpv8SzYI40rcsI5koEcmyuqQslwBGHzVRYt+X5PFUyo0hlNCXoTxwiRxH32RT8mtg==
 
 mdn-data@~1.1.0:
   version "1.1.4"
