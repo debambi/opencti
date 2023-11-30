@@ -58,7 +58,7 @@
     "ioredis": "^4.9.5",
     "iterall": "^1.2.2",
     "jsonwebtoken": "^8.5.1",
-    "merge-graphql-schemas": "^1.5.8",
+    "merge-graphql-schemas": "^1.6.0",
     "migrate": "^1.6.2",
     "moment": "^2.24.0",
     "nconf": "^0.10.0",
