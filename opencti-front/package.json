@@ -39,7 +39,7 @@
     "react-particles-js": "^2.6.0",
     "react-relay": "^4.0.0",
     "react-relay-network-modern": "^3.0.3",
-    "react-router-dom": "^5.0.0",
+    "react-router-dom": "^6.0.0",
     "react-scripts": "^3.0.1",
     "react-select": "^3.0.4",
     "react-virtualized": "^9.21.1",
